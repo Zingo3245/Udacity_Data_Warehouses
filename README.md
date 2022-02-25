@@ -24,9 +24,11 @@ Also make sure that the cluster is created prior to running the scripts.
 This project uses python scripts that can be run from the terminal:
 
 ``
+
 python create_tables.py
 
 python etl.py
+
 ``
 
 
